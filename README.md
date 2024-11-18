@@ -1,6 +1,6 @@
 # UC-BARKELY SOLUTION: REMIX-24 Contest Problem Bank Solutions
 
-This repository contains the solutions for the REMIX-24 contest problems. The solutions are provided based on the input-output pairings given in the files `inputs.txt` and `output.txt`. This repo follows the official pattern/template provided by CALICI.
+This repository contains the solutions for the 3 REMIX-24 contest problems and remaining are the solutions of problems for CALICO-24 actual competition. The solutions are provided based on the input-output pairings given in the files `inputs.txt` and `output.txt`. This repo follows the official pattern/template provided by CALICI.
 
 ## Repository Structure
 
